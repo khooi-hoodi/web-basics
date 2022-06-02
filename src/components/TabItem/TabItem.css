@@ -1,0 +1,6 @@
+.tab-item {
+    width: 50px;
+    border-bottom-style: solid;
+    border-bottom-width: 10px;
+    border-bottom-color: black;
+}
